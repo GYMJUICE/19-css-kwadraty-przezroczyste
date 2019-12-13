@@ -1,0 +1,30 @@
+div {
+    background-color: rgb(251, 255, 211);
+    width: 30%;
+    margin: 0 auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.box {
+    margin: 0 auto;
+    padding: 5px;
+}
+p {
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+}
+.wew1 {
+    opacity: 1;
+}
+.wew2 {
+    opacity: 0.75;
+}
+.wew3 {
+    opacity: 0.5;
+}
+.wew4 {
+    opacity: 0.25; 
+}
+
